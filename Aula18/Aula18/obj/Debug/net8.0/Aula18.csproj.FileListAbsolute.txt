@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\Aula18\Aula18\bin\Debug\net8.0\Aula18.exe
+C:\Users\ginac\source\repos\Aula18\Aula18\bin\Debug\net8.0\Aula18.deps.json
+C:\Users\ginac\source\repos\Aula18\Aula18\bin\Debug\net8.0\Aula18.runtimeconfig.json
+C:\Users\ginac\source\repos\Aula18\Aula18\bin\Debug\net8.0\Aula18.dll
+C:\Users\ginac\source\repos\Aula18\Aula18\bin\Debug\net8.0\Aula18.pdb
+C:\Users\ginac\source\repos\Aula18\Aula18\obj\Debug\net8.0\Aula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\Aula18\Aula18\obj\Debug\net8.0\Aula18.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\Aula18\Aula18\obj\Debug\net8.0\Aula18.AssemblyInfo.cs
+C:\Users\ginac\source\repos\Aula18\Aula18\obj\Debug\net8.0\Aula18.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\Aula18\Aula18\obj\Debug\net8.0\Aula18.dll
+C:\Users\ginac\source\repos\Aula18\Aula18\obj\Debug\net8.0\refint\Aula18.dll
+C:\Users\ginac\source\repos\Aula18\Aula18\obj\Debug\net8.0\Aula18.pdb
+C:\Users\ginac\source\repos\Aula18\Aula18\obj\Debug\net8.0\Aula18.genruntimeconfig.cache
+C:\Users\ginac\source\repos\Aula18\Aula18\obj\Debug\net8.0\ref\Aula18.dll
